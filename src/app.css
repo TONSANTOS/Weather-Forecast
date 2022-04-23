@@ -1,0 +1,55 @@
+.btn-search {
+    margin-left: 10px;
+}
+
+.col-input {
+    display: flex;
+}
+
+.row-container {
+    align-items: center;
+    justify-content: center;
+}
+
+.container-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-container .icon {
+    margin-bottom: 15px;
+    margin-left: 30%;
+    margin-top: -25px;
+}
+
+h2 {
+    margin-right: 40px;
+}
+
+.container-informations {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20%;
+}
+
+.container-temp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20%;
+}
+
+.jumbotron h1 {
+    margin-left: 50px;
+}
+
+#text {
+    margin-left: 18%;
+}
+
+#lead {
+    font-size: 20px;
+    font-weight: 300;
+}
